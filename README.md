@@ -59,11 +59,11 @@ This project demonstrates how to create a **user-based recommender system** usin
 ## 🧠 How It Works
 - Reads a dataset file using Mahout's FileDataModel
 
--Calculates user similarity using Pearson correlation
+- Calculates user similarity using Pearson correlation
 
--Identifies neighborhood users
+- Identifies neighborhood users
 
--Generates top-N recommendations
+- Generates top-N recommendations
 
 # Output:
 ![Image](https://github.com/user-attachments/assets/4c11254c-6b9a-4735-9e31-62520670beb7)
